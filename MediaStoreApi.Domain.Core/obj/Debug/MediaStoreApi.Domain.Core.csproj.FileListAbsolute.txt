@@ -1,0 +1,9 @@
+c:\users\yuko\documents\visual studio 2015\Projects\MediaStoreApi\MediaStoreApi.Domain.Core\bin\Debug\MediaStoreApi.Domain.Core.dll
+c:\users\yuko\documents\visual studio 2015\Projects\MediaStoreApi\MediaStoreApi.Domain.Core\bin\Debug\MediaStoreApi.Domain.Core.pdb
+c:\users\yuko\documents\visual studio 2015\Projects\MediaStoreApi\MediaStoreApi.Domain.Core\obj\Debug\MediaStoreApi.Domain.Core.dll
+c:\users\yuko\documents\visual studio 2015\Projects\MediaStoreApi\MediaStoreApi.Domain.Core\obj\Debug\MediaStoreApi.Domain.Core.pdb
+c:\users\yuko\documents\visual studio 2015\Projects\MediaStoreApi\MediaStoreApi.Domain.Core\obj\Debug\MediaStoreApi.Domain.Core.csprojResolveAssemblyReference.cache
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Domain.Core\bin\Debug\MediaStoreApi.Domain.Core.dll
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Domain.Core\bin\Debug\MediaStoreApi.Domain.Core.pdb
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Domain.Core\obj\Debug\MediaStoreApi.Domain.Core.dll
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Domain.Core\obj\Debug\MediaStoreApi.Domain.Core.pdb

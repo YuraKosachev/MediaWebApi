@@ -1,0 +1,11 @@
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Extension.MediaFileOperations\bin\Debug\MediaStoreApi.Extension.MediaFileOperations.dll
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Extension.MediaFileOperations\bin\Debug\MediaStoreApi.Extension.MediaFileOperations.pdb
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Extension.MediaFileOperations\bin\Debug\MediaStoreApi.Domain.Exceptions.dll
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Extension.MediaFileOperations\bin\Debug\MediaStoreApi.Domain.Interfaces.dll
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Extension.MediaFileOperations\bin\Debug\MediaStoreApi.Domain.Core.dll
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Extension.MediaFileOperations\bin\Debug\MediaStoreApi.Domain.Exceptions.pdb
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Extension.MediaFileOperations\bin\Debug\MediaStoreApi.Domain.Interfaces.pdb
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Extension.MediaFileOperations\bin\Debug\MediaStoreApi.Domain.Core.pdb
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Extension.MediaFileOperations\obj\Debug\MediaStoreApi.Extension.MediaFileOperations.csprojResolveAssemblyReference.cache
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Extension.MediaFileOperations\obj\Debug\MediaStoreApi.Extension.MediaFileOperations.dll
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Extension.MediaFileOperations\obj\Debug\MediaStoreApi.Extension.MediaFileOperations.pdb

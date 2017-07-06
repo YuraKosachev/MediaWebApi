@@ -1,0 +1,4 @@
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Domain.Exceptions\bin\Debug\MediaStoreApi.Domain.Exceptions.dll
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Domain.Exceptions\bin\Debug\MediaStoreApi.Domain.Exceptions.pdb
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Domain.Exceptions\obj\Debug\MediaStoreApi.Domain.Exceptions.dll
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Domain.Exceptions\obj\Debug\MediaStoreApi.Domain.Exceptions.pdb

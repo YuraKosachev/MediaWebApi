@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BF90F9D2-E8AD-4395-8E86-99556E8E201A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MediaStoreApi.Infrastructure.Business</RootNamespace>
+    <AssemblyName>MediaStoreApi.Infrastructure.Business</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MediaFolderManager.cs" />
+    <Compile Include="MediaStoreService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MediaStoreApi.Domain.Core\MediaStoreApi.Domain.Core.csproj">
+      <Project>{b67ff3a8-3402-468b-ad59-67bd90ffa3ed}</Project>
+      <Name>MediaStoreApi.Domain.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MediaStoreApi.Domain.Exceptions\MediaStoreApi.Domain.Exceptions.csproj">
+      <Project>{012c481c-eb24-4907-90b9-8f0d9f3872ab}</Project>
+      <Name>MediaStoreApi.Domain.Exceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MediaStoreApi.Domain.Interfaces\MediaStoreApi.Domain.Interfaces.csproj">
+      <Project>{95ba13ff-e1d1-425c-ba65-8bcf54f65007}</Project>
+      <Name>MediaStoreApi.Domain.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MediaStoreApi.Extension.MediaFileOperations\MediaStoreApi.Extension.MediaFileOperations.csproj">
+      <Project>{33451c3b-6cbd-4b68-bc36-2bd85c78b561}</Project>
+      <Name>MediaStoreApi.Extension.MediaFileOperations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MediaStoreApi.Infrastructure.Data\MediaStoreApi.Infrastructure.Data.csproj">
+      <Project>{2bfd8093-ddf4-4744-8743-d4dda823f1e4}</Project>
+      <Name>MediaStoreApi.Infrastructure.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MediaStoreApi.Infrastructure.FileManage\MediaStoreApi.Infrastructure.FileManage.csproj">
+      <Project>{76ebe935-e678-495a-b438-d5ec865ad5a1}</Project>
+      <Name>MediaStoreApi.Infrastructure.FileManage</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MediaStoreApi.Infrastructure.XML\MediaStoreApi.Infrastructure.XML.csproj">
+      <Project>{8c454909-653b-4ba1-bc97-4776f058c022}</Project>
+      <Name>MediaStoreApi.Infrastructure.XML</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MediaStoreApi.Services.Interfaces\MediaStoreApi.Services.Interfaces.csproj">
+      <Project>{a42e104b-8de5-47a4-96fe-1dc57feb198d}</Project>
+      <Name>MediaStoreApi.Services.Interfaces</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

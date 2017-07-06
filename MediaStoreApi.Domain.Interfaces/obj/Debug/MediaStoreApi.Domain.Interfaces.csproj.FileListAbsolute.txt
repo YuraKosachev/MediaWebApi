@@ -1,0 +1,14 @@
+c:\users\yuko\documents\visual studio 2015\Projects\MediaStoreApi\MediaStoreApi.Domain.Interfaces\bin\Debug\MediaStoreApi.Domain.Interfaces.dll
+c:\users\yuko\documents\visual studio 2015\Projects\MediaStoreApi\MediaStoreApi.Domain.Interfaces\bin\Debug\MediaStoreApi.Domain.Interfaces.pdb
+c:\users\yuko\documents\visual studio 2015\Projects\MediaStoreApi\MediaStoreApi.Domain.Interfaces\bin\Debug\MediaStoreApi.Domain.Core.dll
+c:\users\yuko\documents\visual studio 2015\Projects\MediaStoreApi\MediaStoreApi.Domain.Interfaces\bin\Debug\MediaStoreApi.Domain.Core.pdb
+c:\users\yuko\documents\visual studio 2015\Projects\MediaStoreApi\MediaStoreApi.Domain.Interfaces\obj\Debug\MediaStoreApi.Domain.Interfaces.csprojResolveAssemblyReference.cache
+c:\users\yuko\documents\visual studio 2015\Projects\MediaStoreApi\MediaStoreApi.Domain.Interfaces\obj\Debug\MediaStoreApi.Domain.Interfaces.dll
+c:\users\yuko\documents\visual studio 2015\Projects\MediaStoreApi\MediaStoreApi.Domain.Interfaces\obj\Debug\MediaStoreApi.Domain.Interfaces.pdb
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Domain.Interfaces\bin\Debug\MediaStoreApi.Domain.Interfaces.dll
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Domain.Interfaces\bin\Debug\MediaStoreApi.Domain.Interfaces.pdb
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Domain.Interfaces\bin\Debug\MediaStoreApi.Domain.Core.dll
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Domain.Interfaces\bin\Debug\MediaStoreApi.Domain.Core.pdb
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Domain.Interfaces\obj\Debug\MediaStoreApi.Domain.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Domain.Interfaces\obj\Debug\MediaStoreApi.Domain.Interfaces.dll
+C:\Users\yuko\Documents\Visual Studio 2015\Projects\MediaStoreApiWithAutofac\MediaStoreApi\MediaStoreApi.Domain.Interfaces\obj\Debug\MediaStoreApi.Domain.Interfaces.pdb
